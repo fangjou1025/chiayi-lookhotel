@@ -1,4 +1,4 @@
-/*** bxSlider v4.2.12 ***/
+/*** banner_slider v4.2.12 ***/
 
 ;(function($) {
 
